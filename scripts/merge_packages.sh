@@ -29,7 +29,7 @@ merge_package https://github.com/sundaqiang/openwrt-packages openwrt-packages/lu
 merge_package https://github.com/messense/aliyundrive-webdav aliyundrive-webdav/openwrt/aliyundrive-webdav
 merge_package https://github.com/messense/aliyundrive-webdav aliyundrive-webdav/openwrt/luci-app-aliyundrive-webdav
 merge_package "-b 18.06 https://github.com/jerrykuku/luci-theme-argon" luci-theme-argon
-merge_package "-b 18.06 https://github.com/BTC-LaoMa/luci-theme-opentomcat.git" luci-theme-opentomcat
+merge_package "-b 18.06 https://github.com/BTC-LaoMa/luci-theme-opentomcat" luci-theme-opentomcat
 merge_package https://github.com/vernesong/OpenClash OpenClash/luci-app-openclash
 merge_package https://github.com/NateLol/luci-app-oled luci-app-oled
 merge_package https://github.com/xiaorouji/openwrt-passwall-packages openwrt-passwall-packages/brook
